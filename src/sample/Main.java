@@ -20,19 +20,5 @@ public class Main extends Application {
     public static void main(String[] args) {
         launch(args);
     }
-
-
-
-    // TEST
-    // TEST
-    // TEST
-    // TEST
-    // TEST
-    // TEST
-    // TEST
-    // TEST
-    // TEST
-    // TEST
-    // TEST GITA ASdoiashdaiosjdasidjaosdjiasodhsaivalhd
-    ///asdkahssdjalksdjaslkdjaskldjaslkdajdlaskd
+    
 }
